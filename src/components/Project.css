@@ -1,0 +1,68 @@
+/* --- Project Card ------------------------------------ */
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--medium-dark);
+  color: #fff;
+  border-radius: 20px;
+  min-height: 800px;
+  width: 95vw;
+  max-width: 400px;
+  margin: 30px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.project-card h2 {
+  text-align: center;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+.project-card .project-img {
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  transition: border-color 0.25s;
+  cursor: pointer;
+}
+
+.project-card .project-img:hover {
+  border-color: var(--primaryColor);
+}
+
+.project-card .img-link {
+  width: 95%;
+  margin: 15px auto 0;
+}
+
+.project-card .button-link {
+  margin: 15px auto 0;
+}
+
+.project-card .project-description {
+  font-size: 20px;
+  text-align: center;
+}
+
+@media screen and (min-width: 600px) {
+  .project-card {
+    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.3);
+  }
+
+}
+
+/* Media Query: Large Smartphone (Vertical) */
+@media (max-width: 600px) {
+  section#home a {
+    top: 1rem;
+    left: 1rem;
+  }
+
+  .menu-bars {
+    top: 0.5rem;
+    right: 1rem;
+  }
+}
