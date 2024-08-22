@@ -1,7 +1,7 @@
 export const PROJECT_LIST = [
     {
         title: 'React Tic-Tac-Toe',
-        imgPath: '/src/assets/tic-tac-toe-react.png',
+        imgPath: '/tic-tac-toe-react.png',
         description: 'Tic-Tac-Toe game built with React',
         tech: 'React, HTML, CSS, JavaScript',
         url: 'https://sean-cody-dev.github.io/tic-tac-toe-react/',
@@ -9,7 +9,7 @@ export const PROJECT_LIST = [
     },
     {
         title: 'Qwixx Clone',
-        imgPath: '/src/assets/qwixx-clone.png',
+        imgPath: '/qwixx-clone.png',
         description: `Clone of popular card game Qwixx.`,
         tech: 'HTML, CSS, JavaScript',
         url: 'https://sean-cody-dev.github.io/qwixx-clone/',
@@ -17,7 +17,7 @@ export const PROJECT_LIST = [
     },
     {
         title: 'Form Validator',
-        imgPath: '/src/assets/form-validator.png',
+        imgPath: '/form-validator.png',
         description: 'Simple form with validation using Constraint API',
         tech: 'HTML, CSS, JavaScript',
         url: 'https://sean-cody-dev.github.io/form-validator/',
@@ -25,7 +25,7 @@ export const PROJECT_LIST = [
     },
     {
         title: 'Quote Generator',
-        imgPath: '/src/assets/quote-generator.png',
+        imgPath: '/quote-generator.png',
         description: 'Random quote generator using API fetch, featuring light and dark mode toggle',
         tech: 'HTML, CSS, JavaScript',
         url: 'https://sean-cody-dev.github.io/quote-generator/',
@@ -33,7 +33,7 @@ export const PROJECT_LIST = [
     },
     {
         title: 'Infinite Scroll',
-        imgPath: '/src/assets/infinite-scroll.png',
+        imgPath: '/infinite-scroll.png',
         description: 'Infinite image scroll using Unsplash API',
         tech: 'HTML, CSS, JavaScript',
         url: 'https://sean-cody-dev.github.io/infinite-scroll/',
@@ -41,7 +41,7 @@ export const PROJECT_LIST = [
     },
     {
         title: 'Joke Teller',
-        imgPath: '/src/assets/joke-teller.png',
+        imgPath: '/joke-teller.png',
         description: 'Random joke teller using Joke API and VoiceRSS API',
         tech: 'HTML, CSS, JavaScript',
         url: 'https://sean-cody-dev.github.io/joke-teller/',
