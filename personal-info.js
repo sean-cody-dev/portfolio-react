@@ -1,7 +1,0 @@
-export const PERSONAL_INFO = {
-    aboutMe: [
-        'I’ve spent years diving deep into code, but it’s my experience as a business owner that truly sets me apart. Running a successful ecommerce store from the ground up has honed my ability to tackle challenges with creativity, precision, and a relentless drive for results. This unique blend of technical acumen and entrepreneurial spirit is what I bring to every project I undertake.',
-        'I specialize in the MERN stack (MongoDB, Express, React, Node.js), which allows me to build robust, full-stack applications that are both scalable and efficient. At Graceful Glow Co., I’ve worn many hats—website designer, logistics coordinator, customer relations manager, and data analyst. Each role has refined my problem-solving skills and my ability to adapt quickly in a fast-paced environment. Whether it’s crafting a compelling email marketing campaign or optimizing a Shopify store for peak performance, I’m driven by the challenge of consistently delivering high-quality results while ensuring a seamless user experience.',
-        'I’m excited to continue applying my full-stack development skills, particularly in the MERN stack, paired with the strategic insights I’ve gained from running my own business, to new opportunities and challenges. I’m confident that my diverse background equips me to contribute meaningfully to any team and project I’m a part of.',
-    ]
-};
